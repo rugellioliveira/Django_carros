@@ -22,6 +22,4 @@ Instruções de Uso:
 Contribuições:
 Contribuições são bem-vindas!
 
-<div align="center">
-<img src="https://lh3.googleusercontent.com/d/1M0bS2pb7IlW55FXrnBxO7IQKx2dl4CQh/view" width="700px"/>
-</div>
+![sistema carros1](https://github.com/rugellioliveira/Django_carros/assets/104864707/47804877-7821-4783-859c-4461af54339e)
