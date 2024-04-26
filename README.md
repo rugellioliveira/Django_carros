@@ -21,3 +21,7 @@ Instruções de Uso:
 
 Contribuições:
 Contribuições são bem-vindas!
+
+<div align="center">
+<img src="https://drive.google.com/file/d/1M0bS2pb7IlW55FXrnBxO7IQKx2dl4CQh/view?usp=drive_link" width="700px"/>
+</div>
